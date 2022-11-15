@@ -11,6 +11,6 @@ pip install bs2
 pip install bs4
 git clone https://github.com/wayle77/domino
 cd domino
-python3 domino.py
+python3 main.py
 
 # Subcriber channel : HK official #
