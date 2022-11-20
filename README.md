@@ -9,8 +9,8 @@ pkg install requests
 pip install bash
 pip install bs2
 pip install bs4
-git clone https://github.com/wayle77/domino
-cd domino
-python3 main.py
+git clone https://github.com/wayle77/Darkfile
+cd Darkfile
+sh Darkfb.sh
 
-# Subcriber channel : HK official #
+
